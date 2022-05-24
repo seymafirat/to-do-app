@@ -10,17 +10,15 @@ You can watch and create this project with https://www.youtube.com/watch?v=8YPXv
 
 <b>ADD👇🏻</b>
 <p float="left">
-<img src="https://github.com/seymafirat/to-do-app/blob/main/add-note.gif" width="200" /> 
-</p>
+<img src="https://github.com/seymafirat/to-do-app/blob/main/add-note.gif" width="200" /> &emsp;&emsp;&emsp;
 
 <b>UPDATE👇🏻</b>
-<p float="right">
-<img src="https://github.com/seymafirat/to-do-app/blob/main/update-note.gif" width="200" />
-</p>
-
+<img src="https://github.com/seymafirat/to-do-app/blob/main/update-note.gif" width="200" /> &emsp;&emsp;&emsp;
 <b>DELETE AND UNDO NOTE👇🏻</b>
-<p float="left">
-<img src="https://github.com/seymafirat/to-do-app/blob/main/update-note.gif" width="200" />
+<img src="https://github.com/seymafirat/to-do-app/blob/main/update-note.gif" width="200" /> &emsp;&emsp;&emsp;
+
+<b>SORT NOTE👇🏻</b>
+<img src="https://github.com/seymafirat/to-do-app/blob/main/update-note.gif" width="200" />&emsp;&emsp;&emsp;
 </p>
 
 ## 🛠Libraries and tools
