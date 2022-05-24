@@ -13,7 +13,7 @@ You can watch and create this project with [https://www.youtube.com/watch?v=8YPX
 <img src="https://github.com/seymafirat/to-do-app/blob/main/add-note.gif" width="200"/>&emsp;&emsp;&emsp; 
 
 <b>UPDATE👇🏻</b>
-<p float="left">
+<p float="right">
 <img src="https://github.com/seymafirat/to-do-app/blob/main/update-note.gif" width="200" />     
 </p>
 
