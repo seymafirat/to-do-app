@@ -14,9 +14,7 @@ You can watch and create this project with [https://www.youtube.com/watch?v=8YPX
 </p>
 
 <b>UPDATE👇🏻</b>
-<p float="right">
 <img src="https://github.com/seymafirat/to-do-app/blob/main/update-note.gif" width="200" />     
-</p>
 
 <b>DELETE AND UNDO NOTE👇🏻</b>
 <img src="https://github.com/seymafirat/to-do-app/blob/main/update-note.gif" width="200" />     
