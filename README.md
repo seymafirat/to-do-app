@@ -7,17 +7,19 @@ You can get, add, delete, update , sort and filter notes from database.
 You can watch and create this project with👉🏻 https://www.youtube.com/watch?v=8YPXv7xKh2w&t=9s
 
 ## 🌟Screenshots
-&emsp;&emsp;<b>ADD NOTE👇🏻</b>&emsp;&emsp;&emsp;
+<b>ADD NOTE👇🏻</b>&emsp;&emsp;&emsp;&emsp;
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>UPDATE NOTE👇🏻</b>&emsp;&emsp;
-&emsp;&emsp;&emsp;&emsp;<b>DELETE AND UNDO NOTE👇🏻</b>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>SORT NOTES👇🏻</b>&emsp;&emsp;&emsp;
-
 
 <p float="left">
   <img src="https://github.com/seymafirat/to-do-app/blob/main/add-note.gif" width="200"/>&emsp;&emsp;&emsp;
   <img src="https://github.com/seymafirat/to-do-app/blob/main/update-note.gif" width="200" />&emsp;&emsp;&emsp;
-  <img src="https://github.com/seymafirat/to-do-app/blob/main/delete-undo-note.gif" width="200" />&emsp;&emsp;&emsp;
-  <img src="https://github.com/seymafirat/to-do-app/blob/main/sort-note.gif" width="200" />&emsp;&emsp;&emsp;
+</p>
+
+<b>DELETE AND UNDO NOTE👇🏻</b>
+&emsp;&emsp;&emsp;<b>SORT NOTES👇🏻</b>&emsp;&emsp;&emsp;
+<p float="left">
+<img src="https://github.com/seymafirat/to-do-app/blob/main/delete-undo-note.gif" width="200" />&emsp;&emsp;&emsp;
+<img src="https://github.com/seymafirat/to-do-app/blob/main/sort-note.gif" width="200" />&emsp;&emsp;&emsp;
 </p>
 
 ## 🛠Libraries and tools
