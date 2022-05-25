@@ -7,19 +7,22 @@ You can get, add, delete, update , sort and filter notes from database.
 You can watch and create this project with https://www.youtube.com/watch?v=8YPXv7xKh2w&t=9s
 
 ## 🌟Screenshot
-
-<b>ADD👇🏻</b>
-<p float="left">
-<img src="https://github.com/seymafirat/to-do-app/blob/main/add-note.gif" width="200" />&emsp;
-<b>UPDATE</b>
-<img src="https://github.com/seymafirat/to-do-app/blob/main/update-note.gif" width="200" />&emsp;
-</p>
 <p float="left">
 <b>DELETE AND UNDO NOTE👇🏻</b>
 <img src="https://github.com/seymafirat/to-do-app/blob/main/update-note.gif" width="200" /> &emsp;&emsp;&emsp;
 
 <b>SORT NOTE👇🏻</b>
 <img src="https://github.com/seymafirat/to-do-app/blob/main/update-note.gif" width="200" />&emsp;&emsp;&emsp;
+</p>
+
+&emsp;&emsp;<b>ADD</b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>UPDATE</b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+
+<p float="left">
+  <img src="https://github.com/seymafirat/HepsiBuradaCaseStudy/blob/master/screen1.gif" width="200"/>&emsp;&emsp;&emsp;
+  <img src="https://github.com/seymafirat/to-do-app/blob/main/update-note.gif" width="200" />&emsp;&emsp;&emsp;
+  <img src="https://github.com/seymafirat/HepsiBuradaCaseStudy/blob/master/screen3.gif" width="200" />&emsp;&emsp;&emsp;
+  <img src="https://github.com/seymafirat/HepsiBuradaCaseStudy/blob/master/screen4.gif" width="200" />&emsp;&emsp;&emsp;
 </p>
 
 ## 🛠Libraries and tools
